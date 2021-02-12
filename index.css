@@ -1,3 +1,6 @@
+html {
+   scroll-behavior: smooth;
+ }
 #img-div {
     width: 1000px;
    background-color: #777B7E;
